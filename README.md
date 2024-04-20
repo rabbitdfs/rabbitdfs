@@ -19,7 +19,7 @@
 <h2 align="center">⚒️ Языки, Фреймворки, Инструменты ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=angular,html,css,vscode,github,git,typescript,js" />
+    <img src="https://skillicons.dev/icons?i=angular,html,css,vscode,github,git,typescript,js,bootstrap,figma,photoshop" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,python" /><br>
 </div>
 
