@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Привет!+👋;+Меня+зовут+Мирослав+Пономаренко!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Привет!+👋;+Ят+Мирослав+Пономаренко!;" />
 </h1>
 
-<h3 align="center">Страстный начинающий фронтенд разработчик из России 🇷🇺</h3>
+<h3 align="center">Начинающий фронтенд разработчик из России 🇷🇺</h3>
 
 <br/>
 
@@ -10,33 +10,17 @@
  
  🔭 Сейчас я работаю над своим личным проектом портфолио.
  
- 🌱 В данный момент изучаю **React, Redux, TypeScript**
-
-💬 Спросите меня о **HTML, CSS, JavaScript, Angular... или что-то ещё [здесь](https://github.com/yourgithubusername/yourgithubusername/issues)**
-
-⚡ Интересный факт: **В 'Игре престолов' плащи Ночного Дозора сделаны из ковриков Ikea**
+ 🌱 В данный момент изучаю **Angular, TypeScript**
 
  </div>
- 
-<div align="center"> 
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://yourwebsite.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
-</div>
 
  <hr/>
  
 <h2 align="center">⚒️ Языки, Фреймворки, Инструменты ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=angular,html,css,vscode,github,tailwind,git,typescript,react,js" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,nextjs,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=angular,html,css,vscode,github,git,typescript,js" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python" /><br>
 </div>
 
 <br/>
